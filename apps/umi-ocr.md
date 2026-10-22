@@ -1,33 +1,30 @@
-# Umi-OCR：免费离线截图转文字
+# Umi-OCR
 
 - 项目主页：https://github.com/hiroi-sora/Umi-OCR（MIT 许可）
-- 作用：截图识别文字、批量识别图片、识别 PDF 文档、识别二维码。完全离线，不上传任何数据。
-- 支持系统：Windows 7 及以上（x64）、Linux（x64）。**不支持 macOS**，macOS 用户请改装清单里的其他软件。
+- 作用：截图秒变文字 离线免费OCR。截图 OCR · 自动排版；批量识别一堆图片；PDF 扫描件转文字。
+- 支持系统：仅 Windows（个别也支持 Linux）
+- **注意：** 这款软件不支持 macOS。用户是 Mac 时，如实说明并推荐清单里支持 Mac 的软件，不要尝试安装。
 
 ## 下载渠道（按优先级）
 
-1. **蓝奏云（作者在项目主页公布的国内下载地址，免注册、不限速）：** https://hiroi-sora.lanzoul.com/s/umi-ocr
-2. GitHub Releases：https://github.com/hiroi-sora/Umi-OCR/releases/latest
+1. GitHub Releases：https://github.com/hiroi-sora/Umi-OCR/releases/latest
 
-Windows 有两个版本，二选一：
+按系统选择文件（文件名会随版本变化，以 Releases 页面为准）：
 
-| 文件名包含 | 说明 |
+| 系统 | 参考文件名 |
 |---|---|
-| `Rapid` | 体积小，兼容性好，推荐大多数电脑 |
-| `Paddle` | 识别引擎不同，电脑较新时可选 |
+| Windows | Umi-OCR_Paddle_v2.1.5.7z.exe、Umi-OCR_Rapid_v2.1.5.7z.exe |
 
-## 安装步骤（Windows）
+## 安装步骤
 
-1. 下载 `Umi-OCR_Rapid_版本号.7z.exe`。
-2. 这是一个自解压文件：双击后选择解压位置（建议 `D:\Umi-OCR` 或用户指定的文件夹），点击解压。
-3. 打开解压后的文件夹，双击 `Umi-OCR.exe` 启动。不需要安装。
+- Windows：运行安装包按提示安装；免安装版解压后直接打开。
+- macOS：打开 `.dmg`，把应用拖进「应用程序」。
 
 ## 验证方法
 
-- Umi-OCR 主界面能打开。
-- 在「截图 OCR」标签页点击截图，框选一段文字，右侧能显示识别结果。
+- Umi-OCR 能正常打开主界面。
 
 ## 常见问题
 
 - **Windows 提示“Windows 已保护你的电脑”：** 确认文件来自上面的官方渠道后，点「更多信息 → 仍要运行」。执行前先告诉用户原因。
-- **想卸载：** 直接删除解压出来的文件夹即可。
+- **macOS 提示无法验证开发者：** 到「系统设置 → 隐私与安全性」点击「仍要打开」。执行前先告诉用户原因。

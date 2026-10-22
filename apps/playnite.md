@@ -1,0 +1,31 @@
+# Playnite
+
+- 项目主页：https://github.com/JosefNemec/Playnite（MIT 许可）
+- 作用：各平台游戏一个库全管。统一管理各平台游戏；自动封面 · 资料；全屏模式 · 手柄。
+- 支持系统：仅 Windows（个别也支持 Linux）
+- **注意：** 这款软件不支持 macOS。用户是 Mac 时，如实说明并推荐清单里支持 Mac 的软件，不要尝试安装。
+
+## 下载渠道（按优先级）
+
+1. 官网：https://playnite.link
+2. GitHub Releases：https://github.com/JosefNemec/Playnite/releases/latest
+
+按系统选择文件（文件名会随版本变化，以 Releases 页面为准）：
+
+| 系统 | 参考文件名 |
+|---|---|
+| Windows | 1061to1063.exe、1062to1063.exe、Playnite1063.exe |
+
+## 安装步骤
+
+- Windows：运行安装包按提示安装；免安装版解压后直接打开。
+- macOS：打开 `.dmg`，把应用拖进「应用程序」。
+
+## 验证方法
+
+- Playnite 能正常打开主界面。
+
+## 常见问题
+
+- **Windows 提示“Windows 已保护你的电脑”：** 确认文件来自上面的官方渠道后，点「更多信息 → 仍要运行」。执行前先告诉用户原因。
+- **macOS 提示无法验证开发者：** 到「系统设置 → 隐私与安全性」点击「仍要打开」。执行前先告诉用户原因。
