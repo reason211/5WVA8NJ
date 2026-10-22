@@ -23,6 +23,9 @@
 | it-tools | 80 多个实用小工具的网页工具箱，部署到本机使用 | Windows / macOS / Linux | 进阶（需要命令行） | [apps/it-tools.md](apps/it-tools.md) |
 | FluxDown | 免费开源的多协议下载器，IDM 平替 | Windows / macOS / Linux / 安卓 | 简单 | [apps/fluxdown.md](apps/fluxdown.md) |
 | optimizerDuck | Windows 优化工具，每项都能撤销 | Windows 10 / 11 | 简单（会改系统设置） | [apps/optimizerduck.md](apps/optimizerduck.md) |
+| MusicFree | 插件化、无广告的音乐播放器（本身不带音源） | Windows / macOS / Linux / 安卓 | 简单 | [apps/musicfree.md](apps/musicfree.md) |
+| Vorssaint | Mac 菜单栏工具箱，一个图标顶十几个小工具 | macOS 14+（Apple 芯片） | 简单 | [apps/vorssaint.md](apps/vorssaint.md) |
+| openGym | 自托管的健身记录，可先在线试用 | 安卓 App + 自建服务端 | 进阶（需要 Docker） | [apps/opengym.md](apps/opengym.md) |
 
 ---
 
