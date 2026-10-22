@@ -21,6 +21,8 @@
 | Upscayl | 免费 AI 图片放大、变清晰 | Windows / macOS / Linux | 简单 | [apps/upscayl.md](apps/upscayl.md) |
 | Lively Wallpaper | 免费动态壁纸，打游戏时自动暂停 | Windows 10 / 11 | 简单 | [apps/lively.md](apps/lively.md) |
 | it-tools | 80 多个实用小工具的网页工具箱，部署到本机使用 | Windows / macOS / Linux | 进阶（需要命令行） | [apps/it-tools.md](apps/it-tools.md) |
+| FluxDown | 免费开源的多协议下载器，IDM 平替 | Windows / macOS / Linux / 安卓 | 简单 | [apps/fluxdown.md](apps/fluxdown.md) |
+| optimizerDuck | Windows 优化工具，每项都能撤销 | Windows 10 / 11 | 简单（会改系统设置） | [apps/optimizerduck.md](apps/optimizerduck.md) |
 
 ---
 
