@@ -69,6 +69,7 @@
 | osu! | 免费又上头的音游 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/osu.md](apps/osu.md) |
 | UniGetUI | 装软件像逛应用商店 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/unigetui.md](apps/unigetui.md) |
 | Ice | Mac菜单栏一键收纳 | 仅 macOS | 简单 | [apps/ice.md](apps/ice.md) |
+| Boring Notch | MacBook 刘海变灵动岛 | 仅 macOS（14 以上） | 简单 | [apps/boring-notch.md](apps/boring-notch.md) |
 | MonitorControl | Mac键盘调外接屏亮度 | 仅 macOS | 简单 | [apps/monitorcontrol.md](apps/monitorcontrol.md) |
 | Stats | Mac菜单栏实时看CPU | 仅 macOS | 简单 | [apps/stats.md](apps/stats.md) |
 | Joplin | 多端同步加密笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/joplin.md](apps/joplin.md) |
