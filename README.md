@@ -76,6 +76,7 @@
 | Stirling-PDF | PDF 合并、压缩、转换、签名、OCR | Windows / macOS / Linux | 简单 | [apps/stirling-pdf.md](apps/stirling-pdf.md) |
 | OpenList | 多个网盘挂到一个网页里浏览、在线预览 | Windows / macOS / Linux | 中等 | [apps/openlist.md](apps/openlist.md) |
 | GKD | 安卓按规则自动点击，跳过开屏广告、关弹窗 | Android | 简单 | [apps/gkd.md](apps/gkd.md) |
+| Motrix | 下载管理器：链接、BT、磁力，限速、断点续传 | Windows / macOS / Linux | 简单 | [apps/motrix.md](apps/motrix.md) |
 | MonitorControl | Mac键盘调外接屏亮度 | 仅 macOS | 简单 | [apps/monitorcontrol.md](apps/monitorcontrol.md) |
 | Stats | Mac菜单栏实时看CPU | 仅 macOS | 简单 | [apps/stats.md](apps/stats.md) |
 | Joplin | 多端同步加密笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/joplin.md](apps/joplin.md) |
