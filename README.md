@@ -73,6 +73,7 @@
 | Boring Notch | MacBook 刘海变灵动岛 | 仅 macOS（14 以上） | 简单 | [apps/boring-notch.md](apps/boring-notch.md) |
 | Easydict | Mac 划词翻译、截图翻译 | 仅 macOS（13 以上） | 简单 | [apps/easydict.md](apps/easydict.md) |
 | Watt Toolkit | Steam 加速、账号切换、游戏库存管理 | Windows / macOS / Linux / Android | 简单 | [apps/watt-toolkit.md](apps/watt-toolkit.md) |
+| Stirling-PDF | PDF 合并、压缩、转换、签名、OCR | Windows / macOS / Linux | 简单 | [apps/stirling-pdf.md](apps/stirling-pdf.md) |
 | MonitorControl | Mac键盘调外接屏亮度 | 仅 macOS | 简单 | [apps/monitorcontrol.md](apps/monitorcontrol.md) |
 | Stats | Mac菜单栏实时看CPU | 仅 macOS | 简单 | [apps/stats.md](apps/stats.md) |
 | Joplin | 多端同步加密笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/joplin.md](apps/joplin.md) |
