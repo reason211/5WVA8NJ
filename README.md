@@ -18,6 +18,7 @@
 |---|---|---|---|---|
 | LocalSend | 手机电脑互传文件，不限大小、不压缩、不用登录 | Windows / macOS / 安卓 / iOS / Linux | 简单 | [apps/localsend.md](apps/localsend.md) |
 | Umi-OCR | 免费离线截图转文字、识别 PDF 和二维码 | Windows / Linux | 简单 | [apps/umi-ocr.md](apps/umi-ocr.md) |
+| File Converter | 右键一点就转格式，文档、图片、音视频批量转换压缩 | Windows | 简单 | [apps/file-converter.md](apps/file-converter.md) |
 | Upscayl | 免费 AI 图片放大、变清晰 | Windows / macOS / Linux | 简单 | [apps/upscayl.md](apps/upscayl.md) |
 | Lively Wallpaper | 免费动态壁纸，打游戏时自动暂停 | Windows 10 / 11 | 简单 | [apps/lively.md](apps/lively.md) |
 | it-tools | 80 多个实用小工具的网页工具箱，部署到本机使用 | Windows / macOS / Linux | 进阶（需要命令行） | [apps/it-tools.md](apps/it-tools.md) |
