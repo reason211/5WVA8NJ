@@ -8,13 +8,13 @@
 ## 下载渠道
 
 - GitHub Releases：https://github.com/agalwood/Motrix/releases/latest
-  - Windows：`Motrix-版本号-win.zip`（或同一页面的安装程序，如有）
+  - Windows：安装版 `Motrix-Setup-版本号.exe`（ARM 电脑选 `-arm64.exe`），或免安装的 `Motrix-版本号-win.zip`
   - macOS：Apple 芯片选 `Motrix-版本号-arm64.dmg`，Intel 选 `Motrix-版本号-x64.dmg`
   - Linux：`.AppImage` / `.flatpak` / `.pacman` 等
 
 ## 安装步骤
 
-- Windows：解压 zip 到固定目录（如 `C:\Motrix`），运行 `Motrix.exe`；可为它创建桌面快捷方式。
+- Windows：运行 `Motrix-Setup-版本号.exe` 按提示安装；免安装版解压到固定目录后运行 `Motrix.exe`。
 - macOS：打开 `.dmg`，把 Motrix 拖进「应用程序」。
 - Linux：`.AppImage` 加执行权限后运行。
 
