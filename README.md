@@ -39,7 +39,7 @@
 | QuickLook | Windows按空格秒预览 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/quicklook.md](apps/quicklook.md) |
 | TrafficMonitor | 任务栏实时看网速和温度 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/trafficmonitor.md](apps/trafficmonitor.md) |
 | Buzz | 录音网课一键转文字 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/buzz.md](apps/buzz.md) |
-| ScreenToGif | 录屏直接做成GIF | 仅 Windows（个别也支持 Linux） | 简单 | [apps/screentogif.md](apps/screentogif.md) |
+| ScreenToGif | 框选录屏、逐帧删减、添加转场、导出 GIF / 视频 | Windows 10 / 11 | 简单（商店或官方便携版校验） | [apps/screentogif.md](apps/screentogif.md) |
 | TranslucentTB | 任务栏一键变透明 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/translucenttb.md](apps/translucenttb.md) |
 | Czkawka | C盘爆红 专找重复文件 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/czkawka.md](apps/czkawka.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
