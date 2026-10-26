@@ -25,7 +25,7 @@
   2. 双击 `pdf2zh.exe`，稍等片刻浏览器会打开 `http://localhost:7860/` 的翻译界面；没有自动打开就手动访问这个地址。
   3. 在桌面给 `pdf2zh.exe` 创建快捷方式，方便以后双击打开。
 - **macOS / Linux：**
-  1. 需要 Python 3.10–3.12。先 `pip install uv`（或 `brew install uv`），再执行：
+  1. 需要 Python 3.11–3.12。先 `pip install uv`（或 `brew install uv`），再执行：
      ```bash
      uv tool install --python 3.12 pdf2zh
      ```
