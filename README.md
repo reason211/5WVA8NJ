@@ -34,7 +34,7 @@
 | RustDesk | 免费远程控制 帮爸妈修电脑 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/rustdesk.md](apps/rustdesk.md) |
 | Cherry Studio | 一个窗口用遍各家AI | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/cherry-studio.md](apps/cherry-studio.md) |
 | Koodo Reader | 连CAJ都能读的电子书阅读器 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/koodo-reader.md](apps/koodo-reader.md) |
-| PowerToys | 微软官方免费工具箱 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/powertoys.md](apps/powertoys.md) |
+| PowerToys | 微软官方免费工具箱：窗口分区、右键改图片尺寸、批量改名、屏幕取色 | Windows 10 / 11 | 简单（微软商店） | [apps/powertoys.md](apps/powertoys.md) |
 | BongoCat | 跟你一起敲键盘的桌面猫 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/bongocat.md](apps/bongocat.md) |
 | QuickLook | Windows按空格秒预览 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/quicklook.md](apps/quicklook.md) |
 | TrafficMonitor | 任务栏实时看网速和温度 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/trafficmonitor.md](apps/trafficmonitor.md) |
