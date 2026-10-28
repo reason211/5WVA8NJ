@@ -42,6 +42,7 @@
 | ScreenToGif | 框选录屏、逐帧删减、添加转场、导出 GIF / 视频 | Windows 10 / 11 | 简单（商店或官方便携版校验） | [apps/screentogif.md](apps/screentogif.md) |
 | PDFMathTranslate | 英文论文PDF翻成中文 保留公式图表排版 | Windows / macOS / Linux | 简单（Mac 需要命令行） | [apps/pdfmathtranslate.md](apps/pdfmathtranslate.md) |
 | Jellyfin | 电脑里的电影剧集变成私人影音库，手机电视都能看 | 服务端 Windows / macOS / Linux，客户端安卓 / iOS / 电视 | 中等（本地服务，浏览器设置） | [apps/jellyfin.md](apps/jellyfin.md) |
+| Kodi | 免费家庭影院软件：电影剧集自动生成海报墙，几乎所有格式都能播 | Windows / macOS / 安卓 / Linux / iOS | 简单（微软商店） | [apps/kodi.md](apps/kodi.md) |
 | TranslucentTB | 任务栏一键变透明 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/translucenttb.md](apps/translucenttb.md) |
 | Czkawka | C盘爆红 专找重复文件 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/czkawka.md](apps/czkawka.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
