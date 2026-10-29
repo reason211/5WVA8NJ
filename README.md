@@ -44,6 +44,7 @@
 | Jellyfin | 电脑里的电影剧集变成私人影音库，手机电视都能看 | 服务端 Windows / macOS / Linux，客户端安卓 / iOS / 电视 | 中等（本地服务，浏览器设置） | [apps/jellyfin.md](apps/jellyfin.md) |
 | Kodi | 免费家庭影院软件：电影剧集自动生成海报墙，几乎所有格式都能播 | Windows / macOS / 安卓 / Linux / iOS | 简单（微软商店） | [apps/kodi.md](apps/kodi.md) |
 | Super Productivity | 待办清单 + 日程规划 + 四象限 + 番茄钟，自动记录每件事用时 | Windows / macOS / Linux / 安卓 / iOS | 简单（微软商店 / App Store） | [apps/super-productivity.md](apps/super-productivity.md) |
+| calibre | 电子书管理：分类搜索、自带阅读器、格式互转、编辑 EPUB、浏览器在线看书 | Windows / macOS / Linux | 简单 | [apps/calibre.md](apps/calibre.md) |
 | TranslucentTB | 任务栏一键变透明 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/translucenttb.md](apps/translucenttb.md) |
 | Czkawka（Krokiet） | 清理重复文件、相似照片、重复音乐、大文件、空文件和临时文件，不联网、无广告 | Windows / macOS / Linux / 安卓 | 简单（免安装） | [apps/czkawka.md](apps/czkawka.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
