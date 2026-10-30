@@ -47,6 +47,7 @@
 | calibre | 电子书管理：分类搜索、自带阅读器、格式互转、编辑 EPUB、浏览器在线看书 | Windows / macOS / Linux | 简单 | [apps/calibre.md](apps/calibre.md) |
 | TranslucentTB | 任务栏一键变透明 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/translucenttb.md](apps/translucenttb.md) |
 | Czkawka（Krokiet） | 清理重复文件、相似照片、重复音乐、大文件、空文件和临时文件，不联网、无广告 | Windows / macOS / Linux / 安卓 | 简单（免安装） | [apps/czkawka.md](apps/czkawka.md) |
+| Prism Launcher | 我的世界启动器：整合包、模组在线搜索一键安装和更新，多版本实例互不干扰 | Windows / macOS / Linux | 简单 | [apps/prism-launcher.md](apps/prism-launcher.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
 | 思源笔记 | 数据存本地的国产笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/siyuan.md](apps/siyuan.md) |
 | VPet | 会爬墙的免费桌宠 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/vpet.md](apps/vpet.md) |
