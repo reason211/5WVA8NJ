@@ -51,6 +51,7 @@
 | Files | Windows 文件管理器：多标签页、双栏拖文件、颜色标签、智能解压、显示文件夹大小 | Windows 10 / 11 | 简单 | [apps/files.md](apps/files.md) |
 | BongoCat | 桌面宠物小猫：跟着键盘、鼠标、手柄按键同步动作，可导入自定义模型 | Windows / macOS | 简单 | [apps/bongocat.md](apps/bongocat.md) |
 | KeePassXC | 密码管理器：离线加密保存、密码生成器、弱密码和重复密码体检、自动输入 | Windows / macOS / Linux | 简单 | [apps/keepassxc.md](apps/keepassxc.md) |
+| SumatraPDF | 轻量阅读器：无广告不捆绑，PDF、电子书、漫画都能看，标签页、漫画模式、一键反色 | Windows 7 / 8 / 10 / 11 | 简单（可免安装） | [apps/sumatrapdf.md](apps/sumatrapdf.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
 | 思源笔记 | 数据存本地的国产笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/siyuan.md](apps/siyuan.md) |
 | VPet | 会爬墙的免费桌宠 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/vpet.md](apps/vpet.md) |
