@@ -97,7 +97,7 @@
 | Motrix | 下载管理器：链接、BT、磁力，限速、断点续传 | Windows / macOS / Linux | 简单 | [apps/motrix.md](apps/motrix.md) |
 | MonitorControl | Mac键盘调外接屏亮度 | 仅 macOS | 简单 | [apps/monitorcontrol.md](apps/monitorcontrol.md) |
 | Stats | Mac菜单栏实时看CPU | 仅 macOS | 简单 | [apps/stats.md](apps/stats.md) |
-| Joplin | 多端同步加密笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/joplin.md](apps/joplin.md) |
+| Joplin | 开源笔记：分层整理、全文搜索、待办清单和多端同步 | Windows / macOS / Linux / Android / iOS | 简单（含官方包校验） | [apps/joplin.md](apps/joplin.md) |
 
 ---
 
