@@ -54,6 +54,7 @@
 | SumatraPDF | 轻量阅读器：无广告不捆绑，PDF、电子书、漫画都能看，标签页、漫画模式、一键反色 | Windows 7 / 8 / 10 / 11 | 简单（可免安装） | [apps/sumatrapdf.md](apps/sumatrapdf.md) |
 | Subtitle Edit | 字幕编辑器：Whisper 语音自动生成字幕、对着波形调时间轴、一键翻译原文译文对照、字幕烧进视频 | Windows / macOS / Linux | 简单（可免安装） | [apps/subtitleedit.md](apps/subtitleedit.md) |
 | Image Toolbox | 安卓图片工具：抠图、拼图、滤镜、AI 放大和文件加密 | Android | 简单（下载安装包后传至手机） | [apps/image-toolbox.md](apps/image-toolbox.md) |
+| ONLYOFFICE | 办公套件：文档、表格、演示文稿和 PDF 编辑，支持公式、图表与文件密码 | Windows / macOS / Linux | 简单（含官方包校验） | [apps/onlyoffice.md](apps/onlyoffice.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
 | 思源笔记 | 数据存本地的国产笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/siyuan.md](apps/siyuan.md) |
 | VPet | 会爬墙的免费桌宠 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/vpet.md](apps/vpet.md) |
