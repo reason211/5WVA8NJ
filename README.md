@@ -18,6 +18,8 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| AI Goofish Monitor | 二手商品监控、AI辅助筛选、命中通知 | Docker / 本地网页 | 进阶（需配置自有模型与账号） | [apps/ai-goofish-monitor.md](apps/ai-goofish-monitor.md) |
+| NewsNow | 常见平台热榜集中浏览、最热实时与本地关注 | Docker / 本地网页 | 进阶 | [apps/newsnow.md](apps/newsnow.md) |
 | LocalSend | 手机电脑互传文件，不限大小、不压缩、不用登录 | Windows / macOS / 安卓 / iOS / Linux | 简单 | [apps/localsend.md](apps/localsend.md) |
 | Umi-OCR | 免费离线截图转文字、识别 PDF 和二维码 | Windows / Linux | 简单 | [apps/umi-ocr.md](apps/umi-ocr.md) |
 | File Converter | 右键批量转格式，音视频、图片、PDF 转换压缩与自定义预设 | Windows | 简单（含官方包校验） | [apps/file-converter.md](apps/file-converter.md) |
