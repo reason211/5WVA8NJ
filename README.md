@@ -167,6 +167,16 @@
 | AI婚纱照提示词 | [tasks/wedding-photo.md](tasks/wedding-photo.md) |
 | 万能提问公式 | [tasks/prompt-formula.md](tasks/prompt-formula.md) |
 | 记忆卡制作指令 | [tasks/memory-cards.md](tasks/memory-cards.md) |
+| 小说中段推进 | [tasks/novel-plot-turns.md](tasks/novel-plot-turns.md) |
+| 故事对白提示词 | [tasks/story-dialogue-prompts.md](tasks/story-dialogue-prompts.md) |
+| 长文结构指令 | [tasks/article-structure-prompts.md](tasks/article-structure-prompts.md) |
+| 项目复盘指令 | [tasks/project-retrospective-prompts.md](tasks/project-retrospective-prompts.md) |
+| 主动阅读提问 | [tasks/active-reading-prompts.md](tasks/active-reading-prompts.md) |
+| 服装平铺生图 | [tasks/clothing-flatlay-prompts.md](tasks/clothing-flatlay-prompts.md) |
+| 萌宠短片分镜 | [tasks/pet-vlog-storyboards.md](tasks/pet-vlog-storyboards.md) |
+| 商品静物分镜 | [tasks/product-video-storyboards.md](tasks/product-video-storyboards.md) |
+| 活动海报构图 | [tasks/event-poster-layouts.md](tasks/event-poster-layouts.md) |
+| 英文邮件提示词 | [tasks/english-work-email-prompts.md](tasks/english-work-email-prompts.md) |
 
 ### 任务执行规则
 
