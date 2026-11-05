@@ -157,6 +157,16 @@
 | 文件复制分类整理 | [tasks/folder-organize.md](tasks/folder-organize.md) |
 | 图片批量转格式 | [tasks/image-convert.md](tasks/image-convert.md) |
 | PDF合并或拆分 | [tasks/pdf-pages.md](tasks/pdf-pages.md) |
+| 网文开篇指令 | [tasks/novel-opening.md](tasks/novel-opening.md) |
+| 去AI味改写指令 | [tasks/humanize-rewrite.md](tasks/humanize-rewrite.md) |
+| AI文字冒险 | [tasks/text-adventure.md](tasks/text-adventure.md) |
+| 人物设定提示词 | [tasks/character-sheet.md](tasks/character-sheet.md) |
+| 写材料提示词 | [tasks/office-writing.md](tasks/office-writing.md) |
+| 教师AI指令 | [tasks/teacher-prompts.md](tasks/teacher-prompts.md) |
+| 宝宝百天照提示词 | [tasks/baby-photo.md](tasks/baby-photo.md) |
+| AI婚纱照提示词 | [tasks/wedding-photo.md](tasks/wedding-photo.md) |
+| 万能提问公式 | [tasks/prompt-formula.md](tasks/prompt-formula.md) |
+| 记忆卡制作指令 | [tasks/memory-cards.md](tasks/memory-cards.md) |
 
 ### 任务执行规则
 
