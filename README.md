@@ -60,6 +60,7 @@
 | OpenShot | 多轨视频剪辑、关键帧动画、特效与调色 | Windows / macOS / Linux | 简单（含官方包校验） | [apps/openshot.md](apps/openshot.md) |
 | PPSSPP | 用有权使用的 PSP 游戏数据在电脑或安卓设备上游玩，支持存档与手柄 | Windows / macOS / Linux / Android | 简单（含官方包校验） | [apps/ppsspp.md](apps/ppsspp.md) |
 | Immich | 自建照片相册：手机相册上传、按人物或地点查找、共享相册 | Windows / macOS / Linux / Android / iOS | 进阶（本地服务与备份） | [apps/immich.md](apps/immich.md) |
+| EarTrumpet | 每个软件单独调音量，给软件指定耳机或音箱，滚轮调总音量 | Windows 10 / 11 | 简单（微软商店） | [apps/eartrumpet.md](apps/eartrumpet.md) |
 | BCUninstaller | 流氓软件批量卸干净 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/bcuninstaller.md](apps/bcuninstaller.md) |
 | 思源笔记 | 数据存本地的国产笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/siyuan.md](apps/siyuan.md) |
 | VPet | 会爬墙的免费桌宠 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/vpet.md](apps/vpet.md) |
