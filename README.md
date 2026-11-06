@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| LinkSwift | 在九家网盘网页里获取下载链接，交给 IDM/Aria2 等下载器（不破解限速） | Chrome / Edge 浏览器 | 简单（浏览器脚本） | [apps/linkswift.md](apps/linkswift.md) |
 | AI Goofish Monitor | 二手商品监控、AI辅助筛选、命中通知 | Docker / 本地网页 | 进阶（需配置自有模型与账号） | [apps/ai-goofish-monitor.md](apps/ai-goofish-monitor.md) |
 | NewsNow | 常见平台热榜集中浏览、最热实时与本地关注 | Docker / 本地网页 | 进阶 | [apps/newsnow.md](apps/newsnow.md) |
 | LocalSend | 手机电脑互传文件，不限大小、不压缩、不用登录 | Windows / macOS / 安卓 / iOS / Linux | 简单 | [apps/localsend.md](apps/localsend.md) |
