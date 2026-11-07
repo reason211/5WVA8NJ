@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Readest | 电子书阅读器：EPUB、PDF、MOBI 等格式都能读，划线笔记、朗读、多端同步 | Windows / macOS / Linux / 安卓 / iOS | 简单 | [apps/readest.md](apps/readest.md) |
 | 知了 Cicada | 会议和直播实时双语字幕、同声传译、会议纪要 | Windows / macOS / Linux / Android | 简单（部分平台需自备 AI key） | [apps/cicada.md](apps/cicada.md) |
 | LinkSwift | 在九家网盘网页里获取下载链接，交给 IDM/Aria2 等下载器（不破解限速） | Chrome / Edge 浏览器 | 简单（浏览器脚本） | [apps/linkswift.md](apps/linkswift.md) |
 | AI Goofish Monitor | 二手商品监控、AI辅助筛选、命中通知 | Docker / 本地网页 | 进阶（需配置自有模型与账号） | [apps/ai-goofish-monitor.md](apps/ai-goofish-monitor.md) |
