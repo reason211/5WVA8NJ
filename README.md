@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Stretchly | 电脑休息提醒：定时弹出短休息和长休息，给放松小动作，离开电脑自动暂停 | Windows / macOS / Linux | 简单 | [apps/stretchly.md](apps/stretchly.md) |
 | Readest | 电子书阅读器：EPUB、PDF、MOBI 等格式都能读，划线笔记、朗读、多端同步 | Windows / macOS / Linux / 安卓 / iOS | 简单 | [apps/readest.md](apps/readest.md) |
 | 知了 Cicada | 会议和直播实时双语字幕、同声传译、会议纪要 | Windows / macOS / Linux / Android | 简单（部分平台需自备 AI key） | [apps/cicada.md](apps/cicada.md) |
 | LinkSwift | 在九家网盘网页里获取下载链接，交给 IDM/Aria2 等下载器（不破解限速） | Chrome / Edge 浏览器 | 简单（浏览器脚本） | [apps/linkswift.md](apps/linkswift.md) |
