@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| changedetection.io | 网页变化提醒：蹲降价、补货、官网公告和学校通知，价格曲线、低于设定价才提醒，推送到邮箱、钉钉、飞书、Telegram 等 | Windows / macOS / Linux（本地网页） | 进阶（需要 Python） | [apps/changedetection.md](apps/changedetection.md) |
 | Stretchly | 电脑休息提醒：定时弹出短休息和长休息，给放松小动作，离开电脑自动暂停 | Windows / macOS / Linux | 简单 | [apps/stretchly.md](apps/stretchly.md) |
 | Readest | 电子书阅读器：EPUB、PDF、MOBI 等格式都能读，划线笔记、朗读、多端同步 | Windows / macOS / Linux / 安卓 / iOS | 简单 | [apps/readest.md](apps/readest.md) |
 | 知了 Cicada | 会议和直播实时双语字幕、同声传译、会议纪要 | Windows / macOS / Linux / Android | 简单（部分平台需自备 AI key） | [apps/cicada.md](apps/cicada.md) |
