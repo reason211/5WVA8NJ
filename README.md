@@ -20,6 +20,7 @@
 |---|---|---|---|---|
 | Sunshine + Moonlight | 电脑游戏串流：手机、平板、电视盒子玩电脑游戏，最高 4K 120 帧、HDR，支持 PS/Xbox 手柄 | 电脑端 Windows / macOS / Linux；手机端 iOS / 安卓 / Apple TV | 中等（需要手机端配对） | [apps/sunshine.md](apps/sunshine.md) |
 | changedetection.io | 网页变化提醒：蹲降价、补货、官网公告和学校通知，价格曲线、低于设定价才提醒，推送到邮箱、钉钉、飞书、Telegram 等 | Windows / macOS / Linux（本地网页） | 进阶（需要 Python） | [apps/changedetection.md](apps/changedetection.md) |
+| Zotero | 文献管理：论文、电子书收进文库，PDF/EPUB 里划线批注，一键汇总成笔记，生成参考文献 | Windows / macOS / Linux | 简单 | [apps/zotero.md](apps/zotero.md) |
 | Stretchly | 电脑休息提醒：定时弹出短休息和长休息，给放松小动作，离开电脑自动暂停 | Windows / macOS / Linux | 简单 | [apps/stretchly.md](apps/stretchly.md) |
 | Readest | 电子书阅读器：EPUB、PDF、MOBI 等格式都能读，划线笔记、朗读、多端同步 | Windows / macOS / Linux / 安卓 / iOS | 简单 | [apps/readest.md](apps/readest.md) |
 | 知了 Cicada | 会议和直播实时双语字幕、同声传译、会议纪要 | Windows / macOS / Linux / Android | 简单（部分平台需自备 AI key） | [apps/cicada.md](apps/cicada.md) |
