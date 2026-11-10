@@ -11,7 +11,7 @@
 
 ## 安装步骤
 
-1. 优先用微软商店点击「获取」安装。
+1. 优先用微软商店点击「获取」安装。商店版不支持应用/游戏壁纸（Unity、Godot 小游戏），用户需要这类壁纸时改装 GitHub Releases 的安装版（官方说明：https://github.com/lively-community/lively/wiki/Differences-Between-Distributions ）。
 2. 安装后从开始菜单打开 Lively Wallpaper。
 3. 在 Lively 的壁纸库里选一个自带壁纸，点击设为壁纸。
 
