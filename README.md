@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Stellarium | 电脑天文馆：60 多万颗星、星座图和银河，模拟日出日落、流星、日食，看任意日期的行星位置和望远镜视野 | Windows / macOS / Linux | 简单 | [apps/stellarium.md](apps/stellarium.md) |
 | GIMP | 修图和画图：图层蒙版、曲线色阶、饱和度等滤镜，滤镜挂在图层上随时能改，能打开导出 PSD | Windows / macOS / Linux | 简单 | [apps/gimp.md](apps/gimp.md) |
 | Shutter Encoder | 视频压缩转码：填想要的文件大小就照着压，H.264/H.265/AV1 等格式互转，裁剪、调色、加字幕水印、批量排队 | Windows / macOS / Linux | 简单 | [apps/shutter-encoder.md](apps/shutter-encoder.md) |
 | PDFsam | PDF 合并拆分：多个 PDF 拖进去合成一份，按页码、书签或大小拆分，旋转、抽页，本地处理不加水印 | Windows / macOS / Linux | 简单 | [apps/pdfsam.md](apps/pdfsam.md) |
