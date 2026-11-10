@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Shutter Encoder | 视频压缩转码：填想要的文件大小就照着压，H.264/H.265/AV1 等格式互转，裁剪、调色、加字幕水印、批量排队 | Windows / macOS / Linux | 简单 | [apps/shutter-encoder.md](apps/shutter-encoder.md) |
 | PDFsam | PDF 合并拆分：多个 PDF 拖进去合成一份，按页码、书签或大小拆分，旋转、抽页，本地处理不加水印 | Windows / macOS / Linux | 简单 | [apps/pdfsam.md](apps/pdfsam.md) |
 | CopyQ | 剪贴板历史：复制过的文字、网页、图片都记下来，可搜索、置顶、加标签，快捷键粘贴 | Windows / macOS / Linux | 简单 | [apps/copyq.md](apps/copyq.md) |
 | Rufus | 制作系统启动 U 盘：装 Win11 可去掉 TPM 等要求、官方镜像直接下载、检测扩容 U 盘 | Windows 8 及以上 | 简单（写 U 盘需本人确认） | [apps/rufus.md](apps/rufus.md) |
