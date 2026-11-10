@@ -11,7 +11,7 @@
    - Windows 64 位：https://www.zotero.org/download/client/dl?channel=release&platform=win-x64
    - macOS：https://www.zotero.org/download/client/dl?channel=release&platform=mac
    - Linux 64 位：https://www.zotero.org/download/client/dl?channel=release&platform=linux-x86_64
-- 只装桌面端即可。下载页上的浏览器插件（Zotero Connector）是可选项，用户没要求就不装。
+- 只装桌面端即可。下载页上的浏览器插件（Zotero Connector）是可选项，用户没要求就不装；用户想在浏览器里点一下就把论文存进 Zotero（视频里演示的功能）时，再从官网下载页给他当前用的浏览器装上 Connector。
 
 ## 安装步骤
 
