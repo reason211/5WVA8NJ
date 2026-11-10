@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| AdGuard Home | 全家设备一起挡广告和跟踪：改路由器 DNS 即可，电视手机不用装软件，可一键屏蔽常见 App、按设备定时 | Windows / macOS / Linux | 中等（需管理员权限、改路由器 DNS） | [apps/adguardhome.md](apps/adguardhome.md) |
 | Stellarium | 电脑天文馆：60 多万颗星、星座图和银河，模拟日出日落、流星、日食，看任意日期的行星位置和望远镜视野 | Windows / macOS / Linux | 简单 | [apps/stellarium.md](apps/stellarium.md) |
 | GIMP | 修图和画图：图层蒙版、曲线色阶、饱和度等滤镜，滤镜挂在图层上随时能改，能打开导出 PSD | Windows / macOS / Linux | 简单 | [apps/gimp.md](apps/gimp.md) |
 | Shutter Encoder | 视频压缩转码：填想要的文件大小就照着压，H.264/H.265/AV1 等格式互转，裁剪、调色、加字幕水印、批量排队 | Windows / macOS / Linux | 简单 | [apps/shutter-encoder.md](apps/shutter-encoder.md) |
