@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Rufus | 制作系统启动 U 盘：装 Win11 可去掉 TPM 等要求、官方镜像直接下载、检测扩容 U 盘 | Windows 8 及以上 | 简单（写 U 盘需本人确认） | [apps/rufus.md](apps/rufus.md) |
 | Read Frog | 外文网页和视频双语对照，保存生词并复习闪卡 | Chrome / Edge / Firefox | 简单（保存和复习需登录） | [apps/read-frog.md](apps/read-frog.md) |
 | Sunshine + Moonlight | 电脑游戏串流：手机、平板、电视盒子玩电脑游戏，最高 4K 120 帧、HDR，支持 PS/Xbox 手柄 | 电脑端 Windows / macOS / Linux；手机端 iOS / 安卓 / Apple TV | 中等（需要手机端配对） | [apps/sunshine.md](apps/sunshine.md) |
 | changedetection.io | 网页变化提醒：蹲降价、补货、官网公告和学校通知，价格曲线、低于设定价才提醒，推送到邮箱、钉钉、飞书、Telegram 等 | Windows / macOS / Linux（本地网页） | 进阶（需要 Python） | [apps/changedetection.md](apps/changedetection.md) |
