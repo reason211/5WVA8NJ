@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| GIMP | 修图和画图：图层蒙版、曲线色阶、饱和度等滤镜，滤镜挂在图层上随时能改，能打开导出 PSD | Windows / macOS / Linux | 简单 | [apps/gimp.md](apps/gimp.md) |
 | Shutter Encoder | 视频压缩转码：填想要的文件大小就照着压，H.264/H.265/AV1 等格式互转，裁剪、调色、加字幕水印、批量排队 | Windows / macOS / Linux | 简单 | [apps/shutter-encoder.md](apps/shutter-encoder.md) |
 | PDFsam | PDF 合并拆分：多个 PDF 拖进去合成一份，按页码、书签或大小拆分，旋转、抽页，本地处理不加水印 | Windows / macOS / Linux | 简单 | [apps/pdfsam.md](apps/pdfsam.md) |
 | CopyQ | 剪贴板历史：复制过的文字、网页、图片都记下来，可搜索、置顶、加标签，快捷键粘贴 | Windows / macOS / Linux | 简单 | [apps/copyq.md](apps/copyq.md) |
