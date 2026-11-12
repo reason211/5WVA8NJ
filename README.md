@@ -99,7 +99,7 @@
 | HandBrake | 视频太大 一键压缩 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/handbrake.md](apps/handbrake.md) |
 | Krita | 免费专业绘画软件 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/krita.md](apps/krita.md) |
 | draw.io | 免费画流程图 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/draw-io.md](apps/draw-io.md) |
-| Anki | 按遗忘曲线背单词 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/anki.md](apps/anki.md) |
+| Anki | 按遗忘曲线背单词：按记忆情况排复习，能导入共享词库，电脑手机同步 | Windows / macOS / Linux | 简单 | [apps/anki.md](apps/anki.md) |
 | Logseq | 双链大纲笔记 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/logseq.md](apps/logseq.md) |
 | darktable | 免费RAW修图 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/darktable.md](apps/darktable.md) |
 | Windhawk | Windows随心改造 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/windhawk.md](apps/windhawk.md) |
