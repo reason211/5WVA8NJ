@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Rnote | 手写笔记和画图：压感手写、无限画布，导入 PDF 直接批注，框选移动旋转缩放，标签页同时开多个笔记，导出 PDF/图片 | Windows / macOS / Linux | 简单 | [apps/rnote.md](apps/rnote.md) |
 | SquirrelDisk | 硬盘空间分析清理：整个硬盘画成彩色圆环图，谁占地方一眼看清，点进文件夹按大小排好，拖到底栏一次清掉，系统文件夹自动保护 | Windows / macOS / Linux | 简单 | [apps/squirreldisk.md](apps/squirreldisk.md) |
 | PicView | 看图软件：秒开不弹广告，七十多种格式（含动图、HEIC、PSD、RAW、漫画压缩包），按 G 出缩略图墙、按 C 裁剪，批量改尺寸转格式 | Windows / macOS | 简单 | [apps/picview.md](apps/picview.md) |
 | AdGuard Home | 全家设备一起挡广告和跟踪：改路由器 DNS 即可，电视手机不用装软件，可一键屏蔽常见 App、按设备定时 | Windows / macOS / Linux | 中等（需管理员权限、改路由器 DNS） | [apps/adguardhome.md](apps/adguardhome.md) |
