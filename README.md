@@ -22,6 +22,7 @@
 | Text-Grab | 屏幕文字提取：按住快捷键在屏幕上框选，图片、网页、视频里不能复制的文字毫秒级提取并复制到剪贴板，支持表格提取、全屏识字，本地离线 | Windows 10 / 11 | 简单 | [apps/text-grab.md](apps/text-grab.md) |
 | Navidrome | 自建音乐服务器：电脑里的歌扫成曲库，浏览器直接播，手机用一百多款兼容 App 连上随时听；FLAC 无损、边播边转码、歌词、多用户各自歌单，新歌自动入库 | Windows / macOS / Linux | 中等（本地服务，装好用浏览器访问） | [apps/navidrome.md](apps/navidrome.md) |
 | Krita | 专业开源数字绘画：数位板压感支持，一百多种专业笔刷，自带算法防抖消除手抖，透视辅助尺画背景不歪，漫画网格与对话框素材，手绘逐帧动画，PSD 格式完整读写 | Windows / macOS / Linux / Android | 简单（安装即用，支持便携版） | [apps/krita.md](apps/krita.md) |
+| Syncthing | 跨平台文件自动双向同步：局域网跑满千兆网速，出门在外自动打洞直连，端到端 TLS 强加密，文件切片增量传输，手机相册无感备份电脑 | Windows / macOS / Linux / Android | 简单（解压即用，浏览器管理后台） | [apps/syncthing.md](apps/syncthing.md) |
 | Loop | Mac 窗口分屏：按住 fn 把鼠标往某个方向一甩，窗口就贴到左右半屏或四个角，松手前先预览位置，同一快捷键连按轮换位置，窗口可藏到屏幕边 | macOS 13 及以上 | 简单（需开辅助功能权限） | [apps/loop.md](apps/loop.md) |
 | Rnote | 手写笔记和画图：压感手写、无限画布，导入 PDF 直接批注，框选移动旋转缩放，标签页同时开多个笔记，导出 PDF/图片 | Windows / macOS / Linux | 简单 | [apps/rnote.md](apps/rnote.md) |
 | SquirrelDisk | 硬盘空间分析清理：整个硬盘画成彩色圆环图，谁占地方一眼看清，点进文件夹按大小排好，拖到底栏一次清掉，系统文件夹自动保护 | Windows / macOS / Linux | 简单 | [apps/squirreldisk.md](apps/squirreldisk.md) |
