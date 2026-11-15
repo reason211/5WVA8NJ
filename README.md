@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Notesnook | 端到端加密开源笔记：笔记在本机先加密再同步，支持待办清单、表格、折叠大纲、数学公式和跨设备同步，免费无限笔记 | Windows / macOS / Linux / Android / iOS | 简单 | [apps/notesnook.md](apps/notesnook.md) |
 | Kando | 圆形技能轮盘菜单：按住快捷键呼出轮盘，鼠标一甩直达常用软件、网页、快捷键和系统控制，支持多层嵌套和各种酷炫主题 | Windows / macOS / Linux | 简单（macOS 需辅助功能权限） | [apps/kando.md](apps/kando.md) |
 | Text-Grab | 屏幕文字提取：按住快捷键在屏幕上框选，图片、网页、视频里不能复制的文字毫秒级提取并复制到剪贴板，支持表格提取、全屏识字，本地离线 | Windows 10 / 11 | 简单 | [apps/text-grab.md](apps/text-grab.md) |
 | Navidrome | 自建音乐服务器：电脑里的歌扫成曲库，浏览器直接播，手机用一百多款兼容 App 连上随时听；FLAC 无损、边播边转码、歌词、多用户各自歌单，新歌自动入库 | Windows / macOS / Linux | 中等（本地服务，装好用浏览器访问） | [apps/navidrome.md](apps/navidrome.md) |
