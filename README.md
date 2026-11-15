@@ -126,6 +126,7 @@
 | Easydict | Mac 划词翻译、截图翻译 | 仅 macOS（13 以上） | 简单 | [apps/easydict.md](apps/easydict.md) |
 | Watt Toolkit | Steam 加速、账号切换、游戏库存管理 | Windows / macOS / Linux / Android | 简单 | [apps/watt-toolkit.md](apps/watt-toolkit.md) |
 | Stirling-PDF | PDF 合并、压缩、转换、签名、OCR | Windows / macOS / Linux | 简单 | [apps/stirling-pdf.md](apps/stirling-pdf.md) |
+| BentoPDF | 浏览器端 PDF 工具箱：50 多种工具，本地处理不上传 | Windows / macOS / Linux / 手机浏览器 | 简单 | [apps/bentopdf.md](apps/bentopdf.md) |
 | OpenList | 多个网盘挂到一个网页里浏览、在线预览 | Windows / macOS / Linux | 中等 | [apps/openlist.md](apps/openlist.md) |
 | GKD | 安卓按规则自动点击，跳过开屏广告、关弹窗 | Android | 简单 | [apps/gkd.md](apps/gkd.md) |
 | Motrix | 下载管理器：链接、BT、磁力，限速、断点续传 | Windows / macOS / Linux | 简单 | [apps/motrix.md](apps/motrix.md) |
