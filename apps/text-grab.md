@@ -7,13 +7,13 @@
 
 ## 下载渠道（按优先级）
 
-1. 微软商店：https://apps.microsoft.com/detail/9msxbzhnf0jl
+1. 微软商店：https://apps.microsoft.com/detail/9mznkqj7sl0b
 2. GitHub Releases：https://github.com/TheJoeFin/Text-Grab/releases/latest
 
 ## 安装步骤
 
 - 微软商店：打开商店页面，点击获取或安装。
-- GitHub Releases：下载 `Text-Grab.exe` 或便携包，解压后双击运行。
+- GitHub Releases：下载 `Text-Grab.exe` 或 `Text-Grab-x64-Self-Contained.zip` 便携包，解压后双击运行。
 
 ## 验证方法
 
