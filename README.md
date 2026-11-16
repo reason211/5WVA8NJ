@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| WinMerge | 文件与文件夹差异对比合并：两份文档、CSV 表格、图片或文件夹并排对比，颜色标出修改处并一键合并 | 仅 Windows | 简单（安装或便携版即用） | [apps/winmerge.md](apps/winmerge.md) |
 | Sandboxie | Windows 沙盒隔离工具：陌生软件右键放进沙盒运行，不改原系统、可单独断网，关掉一键清空不留垃圾 | Windows 7 及以上 | 简单（装驱动需管理员确认） | [apps/sandboxie.md](apps/sandboxie.md) |
 | Notesnook | 端到端加密开源笔记：笔记在本机先加密再同步，支持待办清单、表格、折叠大纲、数学公式和跨设备同步，免费无限笔记 | Windows / macOS / Linux / Android / iOS | 简单 | [apps/notesnook.md](apps/notesnook.md) |
 | Kando | 圆形技能轮盘菜单：按住快捷键呼出轮盘，鼠标一甩直达常用软件、网页、快捷键和系统控制，支持多层嵌套和各种酷炫主题 | Windows / macOS / Linux | 简单（macOS 需辅助功能权限） | [apps/kando.md](apps/kando.md) |
