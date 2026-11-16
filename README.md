@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| CleanYourTV | 电视去广告与桌面净化：局域网 Wi-Fi 连接停用电视广告与预装应用、免 Root 不卸载可一键还原、仅 572 KB 极简清爽桌面 | Android TV / Google TV（Win / Mac / Linux 操作） | 中等（需电视开网络调试） | [apps/cleanyourtv.md](apps/cleanyourtv.md) |
 | Recordly | 跨平台演示录屏与剪辑：自动跟焦放大点击区域、光标平滑与点击弹跳、摄像头气泡、圆角渐变背景、时间线剪辑，直接导出 MP4/GIF | Windows / macOS / Linux | 简单 | [apps/recordly.md](apps/recordly.md) |
 | LinearMouse | Mac 鼠标与触控板独立设置：外接鼠标与触控板分开反转滚轮、关闭指针加速度防发飘、映射鼠标侧键前进后退 | 仅 macOS | 简单（需开辅助功能权限） | [apps/linearmouse.md](apps/linearmouse.md) |
 | WinMerge | 文件与文件夹差异对比合并：两份文档、CSV 表格、图片或文件夹并排对比，颜色标出修改处并一键合并 | 仅 Windows | 简单（安装或便携版即用） | [apps/winmerge.md](apps/winmerge.md) |
