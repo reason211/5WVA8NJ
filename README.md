@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Recordly | 跨平台演示录屏与剪辑：自动跟焦放大点击区域、光标平滑与点击弹跳、摄像头气泡、圆角渐变背景、时间线剪辑，直接导出 MP4/GIF | Windows / macOS / Linux | 简单 | [apps/recordly.md](apps/recordly.md) |
 | LinearMouse | Mac 鼠标与触控板独立设置：外接鼠标与触控板分开反转滚轮、关闭指针加速度防发飘、映射鼠标侧键前进后退 | 仅 macOS | 简单（需开辅助功能权限） | [apps/linearmouse.md](apps/linearmouse.md) |
 | WinMerge | 文件与文件夹差异对比合并：两份文档、CSV 表格、图片或文件夹并排对比，颜色标出修改处并一键合并 | 仅 Windows | 简单（安装或便携版即用） | [apps/winmerge.md](apps/winmerge.md) |
 | Sandboxie | Windows 沙盒隔离工具：陌生软件右键放进沙盒运行，不改原系统、可单独断网，关掉一键清空不留垃圾 | Windows 7 及以上 | 简单（装驱动需管理员确认） | [apps/sandboxie.md](apps/sandboxie.md) |
