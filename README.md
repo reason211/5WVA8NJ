@@ -213,6 +213,16 @@
 | 商品静物分镜 | [tasks/product-video-storyboards.md](tasks/product-video-storyboards.md) |
 | 活动海报构图 | [tasks/event-poster-layouts.md](tasks/event-poster-layouts.md) |
 | 英文邮件提示词 | [tasks/english-work-email-prompts.md](tasks/english-work-email-prompts.md) |
+| 详情页生图 | [tasks/product-detail-layout-prompts.md](tasks/product-detail-layout-prompts.md) |
+| 手作包装草图 | [tasks/handmade-packaging-prompts.md](tasks/handmade-packaging-prompts.md) |
+| 漫剧场景分镜 | [tasks/original-comic-scene-prompts.md](tasks/original-comic-scene-prompts.md) |
+| 故事世界观 | [tasks/original-worldbuilding-prompts.md](tasks/original-worldbuilding-prompts.md) |
+| 小说伏笔整理 | [tasks/story-foreshadowing-prompts.md](tasks/story-foreshadowing-prompts.md) |
+| 角色表情生图 | [tasks/character-expression-prompts.md](tasks/character-expression-prompts.md) |
+| 食品静物生图 | [tasks/food-still-life-prompts.md](tasks/food-still-life-prompts.md) |
+| 教程视频脚本 | [tasks/tutorial-video-prompts.md](tasks/tutorial-video-prompts.md) |
+| 读书笔记图文 | [tasks/reading-note-share-prompts.md](tasks/reading-note-share-prompts.md) |
+| 工作交接清单 | [tasks/work-handover-prompts.md](tasks/work-handover-prompts.md) |
 
 ### 任务执行规则
 
