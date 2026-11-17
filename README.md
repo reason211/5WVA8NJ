@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| PhotoCraft | 纯 Rust 开源修图与图像编辑：原生读写分层 PSD/PSB、69 种修图工具、16 种无损调整图层（曲线/色阶/色相饱和度）、图层样式与外发光、矢量形状与文字排版、导出实时算体积 | Windows / macOS / Linux / Web | 简单（安装或便携解压即用） | [apps/photocraft.md](apps/photocraft.md) |
 | CleanYourTV | 电视去广告与桌面净化：局域网 Wi-Fi 连接停用电视广告与预装应用、免 Root 不卸载可一键还原、仅 572 KB 极简清爽桌面 | Android TV / Google TV（Win / Mac / Linux 操作） | 中等（需电视开网络调试） | [apps/cleanyourtv.md](apps/cleanyourtv.md) |
 | Recordly | 跨平台演示录屏与剪辑：自动跟焦放大点击区域、光标平滑与点击弹跳、摄像头气泡、圆角渐变背景、时间线剪辑，直接导出 MP4/GIF | Windows / macOS / Linux | 简单 | [apps/recordly.md](apps/recordly.md) |
 | LinearMouse | Mac 鼠标与触控板独立设置：外接鼠标与触控板分开反转滚轮、关闭指针加速度防发飘、映射鼠标侧键前进后退 | 仅 macOS | 简单（需开辅助功能权限） | [apps/linearmouse.md](apps/linearmouse.md) |
