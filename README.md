@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| DroidDeck | 安卓手机变游戏掌机：免电脑串流直接运行 Steam 游戏模式，整合 Epic / GOG / Xbox 游戏库，支持双人手柄分屏与 AR 眼镜，还能一键切完整 Linux 桌面 | Android 9+（Win/Mac/Linux 搭子协助下载 APK 传到手机安装） | 简单（直接装 APK，Android 14+ 开发者选项开子进程权限） | [apps/droiddeck.md](apps/droiddeck.md) |
 | PhotoCraft | 纯 Rust 开源修图与图像编辑：原生读写分层 PSD/PSB、69 种修图工具、16 种无损调整图层（曲线/色阶/色相饱和度）、图层样式与外发光、矢量形状与文字排版、导出实时算体积 | Windows / macOS / Linux / Web | 简单（安装或便携解压即用） | [apps/photocraft.md](apps/photocraft.md) |
 | CleanYourTV | 电视去广告与桌面净化：局域网 Wi-Fi 连接停用电视广告与预装应用、免 Root 不卸载可一键还原、仅 572 KB 极简清爽桌面 | Android TV / Google TV（Win / Mac / Linux 操作） | 中等（需电视开网络调试） | [apps/cleanyourtv.md](apps/cleanyourtv.md) |
 | Recordly | 跨平台演示录屏与剪辑：自动跟焦放大点击区域、光标平滑与点击弹跳、摄像头气泡、圆角渐变背景、时间线剪辑，直接导出 MP4/GIF | Windows / macOS / Linux | 简单 | [apps/recordly.md](apps/recordly.md) |
