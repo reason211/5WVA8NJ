@@ -224,6 +224,16 @@
 | 教程视频脚本 | [tasks/tutorial-video-prompts.md](tasks/tutorial-video-prompts.md) |
 | 读书笔记图文 | [tasks/reading-note-share-prompts.md](tasks/reading-note-share-prompts.md) |
 | 工作交接清单 | [tasks/work-handover-prompts.md](tasks/work-handover-prompts.md) |
+| 复古杂志人像词 | [tasks/magazine-portrait-prompts.md](tasks/magazine-portrait-prompts.md) |
+| 日用百货主图词 | [tasks/daily-goods-main-image-prompts.md](tasks/daily-goods-main-image-prompts.md) |
+| 市集节气海报词 | [tasks/market-poster-prompts.md](tasks/market-poster-prompts.md) |
+| 角色三视图词 | [tasks/character-turnaround-prompts.md](tasks/character-turnaround-prompts.md) |
+| 小说章纲指令 | [tasks/novel-chapter-outline-prompts.md](tasks/novel-chapter-outline-prompts.md) |
+| 好物测评提示词 | [tasks/product-review-note-prompts.md](tasks/product-review-note-prompts.md) |
+| 画面反推提示词 | [tasks/video-reverse-prompting.md](tasks/video-reverse-prompting.md) |
+| 推理分析指令 | [tasks/deep-reasoning-prompts.md](tasks/deep-reasoning-prompts.md) |
+| 跨部门沟通词 | [tasks/cross-team-followup-prompts.md](tasks/cross-team-followup-prompts.md) |
+| 考点速记提示词 | [tasks/exam-mnemonic-prompts.md](tasks/exam-mnemonic-prompts.md) |
 
 ### 任务执行规则
 
