@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| RapidRAW | GPU 加速无损 RAW 修图与影库管理：支持曲线、调色轮、蒙版、AI 降噪与超分、胶片颗粒、星级挑片与批量导出，不改动原始底片 | Windows / macOS / Linux / Android | 简单（安装或 .dmg 拖入即用） | [apps/rapidraw.md](apps/rapidraw.md) |
 | NAPS2 | 文档扫描与 PDF 整理：支持扫描或导入图片/PDF，拖拽重排、旋转裁剪调色，内置本地 OCR 让扫描件可直接复制和搜索文字，还能局域网共享扫描仪 | Windows / macOS / Linux | 简单（安装或便携解压即用） | [apps/naps2.md](apps/naps2.md) |
 | IINA | Mac 现代开源音视频播放器：支持几乎所有影音格式，自带悬浮控制条、外挂字幕样式调节、画面裁切与调色、倍速、画中画和音频均衡器 | 仅 macOS（macOS 11.0+） | 简单（打开 .dmg 拖入应用程序） | [apps/iina.md](apps/iina.md) |
 | DroidDeck | 安卓手机变游戏掌机：免电脑串流直接运行 Steam 游戏模式，整合 Epic / GOG / Xbox 游戏库，支持双人手柄分屏与 AR 眼镜，还能一键切完整 Linux 桌面 | Android 9+（Win/Mac/Linux 搭子协助下载 APK 传到手机安装） | 简单（直接装 APK，Android 14+ 开发者选项开子进程权限） | [apps/droiddeck.md](apps/droiddeck.md) |
