@@ -236,6 +236,16 @@
 | 推理分析指令 | [tasks/deep-reasoning-prompts.md](tasks/deep-reasoning-prompts.md) |
 | 跨部门沟通词 | [tasks/cross-team-followup-prompts.md](tasks/cross-team-followup-prompts.md) |
 | 考点速记提示词 | [tasks/exam-mnemonic-prompts.md](tasks/exam-mnemonic-prompts.md) |
+| 悬疑线索提示词 | [tasks/suspense-clue-prompts.md](tasks/suspense-clue-prompts.md) |
+| 轮播图文提示词 | [tasks/xhs-carousel-prompts.md](tasks/xhs-carousel-prompts.md) |
+| 跨境主图提示词 | [tasks/crossborder-main-image-prompts.md](tasks/crossborder-main-image-prompts.md) |
+| 氛围感修图词 | [tasks/atmosphere-retouch-prompts.md](tasks/atmosphere-retouch-prompts.md) |
+| 极简标志提示词 | [tasks/minimal-logo-type-prompts.md](tasks/minimal-logo-type-prompts.md) |
+| 九宫格分镜词 | [tasks/nine-grid-storyboard-prompts.md](tasks/nine-grid-storyboard-prompts.md) |
+| 产品短片分镜词 | [tasks/tvc-ad-video-prompts.md](tasks/tvc-ad-video-prompts.md) |
+| 周报提炼提示词 | [tasks/weekly-report-polish-prompts.md](tasks/weekly-report-polish-prompts.md) |
+| 方案评审提示词 | [tasks/proposal-review-prompts.md](tasks/proposal-review-prompts.md) |
+| 错题变式提示词 | [tasks/mistake-variant-practice-prompts.md](tasks/mistake-variant-practice-prompts.md) |
 
 ### 任务执行规则
 
