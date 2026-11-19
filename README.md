@@ -108,7 +108,7 @@
 | MarkText | 所见即所得写Markdown | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/marktext.md](apps/marktext.md) |
 | Motrix | 干净无广告的下载器 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/motrix.md](apps/motrix.md) |
 | LocalSend | 手机电脑局域网互传文件，不用联网 | Windows / macOS / Linux / Android / iOS | 简单 | [apps/localsend.md](apps/localsend.md) |
-| Gopeed | 电脑手机都能用的下载器 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/gopeed.md](apps/gopeed.md) |
+| Gopeed | 电脑手机都能用的下载器 | Windows / macOS / Linux / Android | 简单 | [apps/gopeed.md](apps/gopeed.md) |
 | AB Download Manager | IDM免费平替 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/ab-download-manager.md](apps/ab-download-manager.md) |
 | NanaZip | 无广告不捆绑的解压软件 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/nanazip.md](apps/nanazip.md) |
 | Ventoy | 一个U盘装多个系统 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/ventoy.md](apps/ventoy.md) |
