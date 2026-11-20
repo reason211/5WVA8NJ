@@ -249,6 +249,16 @@
 | 周报提炼提示词 | [tasks/weekly-report-polish-prompts.md](tasks/weekly-report-polish-prompts.md) |
 | 方案评审提示词 | [tasks/proposal-review-prompts.md](tasks/proposal-review-prompts.md) |
 | 错题变式提示词 | [tasks/mistake-variant-practice-prompts.md](tasks/mistake-variant-practice-prompts.md) |
+| 小说场景描写词 | [tasks/novel-scene-description-prompts.md](tasks/novel-scene-description-prompts.md) |
+| 美妆主图提示词 | [tasks/beauty-product-image-prompts.md](tasks/beauty-product-image-prompts.md) |
+| 漫剧站位运镜词 | [tasks/comic-action-blocking-prompts.md](tasks/comic-action-blocking-prompts.md) |
+| 小红书避坑攻略词 | [tasks/xhs-avoid-pitfalls-prompts.md](tasks/xhs-avoid-pitfalls-prompts.md) |
+| 美食带货脚本词 | [tasks/food-promo-script-prompts.md](tasks/food-promo-script-prompts.md) |
+| 人像微表情提示词 | [tasks/portrait-micro-expression-prompts.md](tasks/portrait-micro-expression-prompts.md) |
+| 客户需求梳理词 | [tasks/client-discovery-prompts.md](tasks/client-discovery-prompts.md) |
+| 手绘插画提示词 | [tasks/hand-drawn-illustration-prompts.md](tasks/hand-drawn-illustration-prompts.md) |
+| 抽象涂鸦表情词 | [tasks/abstract-doodle-emoji-prompts.md](tasks/abstract-doodle-emoji-prompts.md) |
+| 概念入门提问词 | [tasks/beginner-concept-prompts.md](tasks/beginner-concept-prompts.md) |
 
 ### 任务执行规则
 
