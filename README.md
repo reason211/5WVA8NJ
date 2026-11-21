@@ -262,6 +262,16 @@
 | 手绘插画提示词 | [tasks/hand-drawn-illustration-prompts.md](tasks/hand-drawn-illustration-prompts.md) |
 | 抽象涂鸦表情词 | [tasks/abstract-doodle-emoji-prompts.md](tasks/abstract-doodle-emoji-prompts.md) |
 | 概念入门提问词 | [tasks/beginner-concept-prompts.md](tasks/beginner-concept-prompts.md) |
+| 古风甜宠小说词 | [tasks/ancient-romance-short-prompts.md](tasks/ancient-romance-short-prompts.md) |
+| 男装主图提示词 | [tasks/menswear-main-image-prompts.md](tasks/menswear-main-image-prompts.md) |
+| 大促主图提示词 | [tasks/promo-badge-image-prompts.md](tasks/promo-badge-image-prompts.md) |
+| 连贯分镜提示词 | [tasks/script-to-storyboard-prompts.md](tasks/script-to-storyboard-prompts.md) |
+| 古风服化设定词 | [tasks/ancient-comic-costume-prompts.md](tasks/ancient-comic-costume-prompts.md) |
+| 男士人像提示词 | [tasks/mens-portrait-prompts.md](tasks/mens-portrait-prompts.md) |
+| 复古胶片头像词 | [tasks/retro-headshot-avatar-prompts.md](tasks/retro-headshot-avatar-prompts.md) |
+| 经验笔记提示词 | [tasks/xhs-experience-note-prompts.md](tasks/xhs-experience-note-prompts.md) |
+| 书单图文提示词 | [tasks/book-list-content-prompts.md](tasks/book-list-content-prompts.md) |
+| 任务拆解排期词 | [tasks/task-breakdown-schedule-prompts.md](tasks/task-breakdown-schedule-prompts.md) |
 
 ### 任务执行规则
 
