@@ -18,6 +18,8 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Zen Browser | 专注高颜值开源浏览器：垂直标签栏、最多 4 屏同显、Glance 悬浮小窗预览、工作区隔离、紧凑自动隐藏侧栏，支持 Firefox 扩展 | Windows 10+ / macOS / Linux | 简单（官方安装包一键安装，可导入书签） | [apps/zen-browser.md](apps/zen-browser.md) |
+|---|---|---|---|---|
 | Aerial | 国产电视干净桌面：参照 tvOS 设计替换广告首页，支持开机自动接管、手机扫码整理图标、114 段 4K 航拍屏保，免 Root 不删系统软件随时还原 | 电视端 Android TV 4.0–14+（Win/Mac/Linux 电脑 ADB 或 U 盘安装） | 中等（需电视开 ADB 调试） | [apps/aerial.md](apps/aerial.md) |
 | Auto Dark Mode | Windows 自动深浅色切换：按时间或日出日落自动切换系统与应用主题，同步换壁纸、鼠标指针和强调色，打游戏时自动暂停 | 仅 Windows 10 / 11 | 简单（无需管理员权限，安装或便携版即用） | [apps/autodarkmode.md](apps/autodarkmode.md) |
 | Kdenlive | 免费无水印多轨视频剪辑：音视频多轨混剪、语音自动生成字幕、三色轮与曲线调色、关键帧遮罩特效、多机位同步剪辑，导出高清无水印 | Windows / macOS / Linux | 简单（官网安装或便携解压即用） | [apps/kdenlive.md](apps/kdenlive.md) |
