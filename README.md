@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| KDE Connect | 手机电脑跨设备无线互联：手机秒变无线触控板与 PPT 遥控器、剪贴板共享、无线互传文件、通知电量同步、响铃找手机 | Windows / macOS / Linux / Android / iOS | 简单（商店或安装包安装，同 Wi-Fi 配对即用） | [apps/kde-connect.md](apps/kde-connect.md) |
 | CompactGUI | Windows 原生无损目录压缩：调用系统内置 WOF 透明压缩把百 G 游戏或软件原地压小、不删文件直接玩，含 12,809 款游戏压缩率数据库与更新自动重压 | 仅 Windows 10 / 11（x64 / ARM64） | 简单（单文件绿色运行） | [apps/compactgui.md](apps/compactgui.md) |
 |---|---|---|---|---|
 | Filee | 本地离线拖拽文件格式转换器：按住 Ctrl 拖动文件弹出格式圆环，支持图片/PDF/文档/音视频/压缩包等 270 种格式免上传互转 | Windows 10/11 / macOS 13+ / Linux | 简单（官网安装或便携解压即用） | [apps/filee.md](apps/filee.md) |
