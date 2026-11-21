@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Aerial | 国产电视干净桌面：参照 tvOS 设计替换广告首页，支持开机自动接管、手机扫码整理图标、114 段 4K 航拍屏保，免 Root 不删系统软件随时还原 | 电视端 Android TV 4.0–14+（Win/Mac/Linux 电脑 ADB 或 U 盘安装） | 中等（需电视开 ADB 调试） | [apps/aerial.md](apps/aerial.md) |
 | Auto Dark Mode | Windows 自动深浅色切换：按时间或日出日落自动切换系统与应用主题，同步换壁纸、鼠标指针和强调色，打游戏时自动暂停 | 仅 Windows 10 / 11 | 简单（无需管理员权限，安装或便携版即用） | [apps/autodarkmode.md](apps/autodarkmode.md) |
 | Kdenlive | 免费无水印多轨视频剪辑：音视频多轨混剪、语音自动生成字幕、三色轮与曲线调色、关键帧遮罩特效、多机位同步剪辑，导出高清无水印 | Windows / macOS / Linux | 简单（官网安装或便携解压即用） | [apps/kdenlive.md](apps/kdenlive.md) |
 | RapidRAW | GPU 加速无损 RAW 修图与影库管理：支持曲线、调色轮、蒙版、AI 降噪与超分、胶片颗粒、星级挑片与批量导出，不改动原始底片 | Windows / macOS / Linux / Android | 简单（安装或 .dmg 拖入即用） | [apps/rapidraw.md](apps/rapidraw.md) |
