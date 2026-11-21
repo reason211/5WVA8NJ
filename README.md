@@ -18,6 +18,8 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| CompactGUI | Windows 原生无损目录压缩：调用系统内置 WOF 透明压缩把百 G 游戏或软件原地压小、不删文件直接玩，含 12,809 款游戏压缩率数据库与更新自动重压 | 仅 Windows 10 / 11（x64 / ARM64） | 简单（单文件绿色运行） | [apps/compactgui.md](apps/compactgui.md) |
+|---|---|---|---|---|
 | Filee | 本地离线拖拽文件格式转换器：按住 Ctrl 拖动文件弹出格式圆环，支持图片/PDF/文档/音视频/压缩包等 270 种格式免上传互转 | Windows 10/11 / macOS 13+ / Linux | 简单（官网安装或便携解压即用） | [apps/filee.md](apps/filee.md) |
 | Zen Browser | 专注高颜值开源浏览器：垂直标签栏、最多 4 屏同显、Glance 悬浮小窗预览、工作区隔离、紧凑自动隐藏侧栏，支持 Firefox 扩展 | Windows 10+ / macOS / Linux | 简单（官方安装包一键安装，可导入书签） | [apps/zen-browser.md](apps/zen-browser.md) |
 |---|---|---|---|---|
