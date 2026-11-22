@@ -278,6 +278,16 @@
 | 经验笔记提示词 | [tasks/xhs-experience-note-prompts.md](tasks/xhs-experience-note-prompts.md) |
 | 书单图文提示词 | [tasks/book-list-content-prompts.md](tasks/book-list-content-prompts.md) |
 | 任务拆解排期词 | [tasks/task-breakdown-schedule-prompts.md](tasks/task-breakdown-schedule-prompts.md) |
+| 小说打斗词 | [tasks/novel-action-climax-prompts.md](tasks/novel-action-climax-prompts.md) |
+| 反派人设词 | [tasks/novel-villain-character-prompts.md](tasks/novel-villain-character-prompts.md) |
+| 空镜转场词 | [tasks/video-broll-transition-prompts.md](tasks/video-broll-transition-prompts.md) |
+| 萌宠打工词 | [tasks/anthropomorphic-pet-short-prompts.md](tasks/anthropomorphic-pet-short-prompts.md) |
+| 女装主图词 | [tasks/womenswear-outfit-image-prompts.md](tasks/womenswear-outfit-image-prompts.md) |
+| 家居主图词 | [tasks/home-goods-scene-prompts.md](tasks/home-goods-scene-prompts.md) |
+| 电影感街拍 | [tasks/cinematic-street-portrait-prompts.md](tasks/cinematic-street-portrait-prompts.md) |
+| 科普脚本词 | [tasks/science-explainer-script-prompts.md](tasks/science-explainer-script-prompts.md) |
+| SOP手册指令 | [tasks/work-sop-manual-prompts.md](tasks/work-sop-manual-prompts.md) |
+| 口语对练词 | [tasks/spoken-language-practice-prompts.md](tasks/spoken-language-practice-prompts.md) |
 
 ### 任务执行规则
 
