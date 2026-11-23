@@ -288,6 +288,16 @@
 | 科普脚本词 | [tasks/science-explainer-script-prompts.md](tasks/science-explainer-script-prompts.md) |
 | SOP手册指令 | [tasks/work-sop-manual-prompts.md](tasks/work-sop-manual-prompts.md) |
 | 口语对练词 | [tasks/spoken-language-practice-prompts.md](tasks/spoken-language-practice-prompts.md) |
+| 小说断章钩子词 | [tasks/novel-cliffhanger-prompts.md](tasks/novel-cliffhanger-prompts.md) |
+| 视频定锚提示词 | [tasks/video-consistency-anchor-prompts.md](tasks/video-consistency-anchor-prompts.md) |
+| 漫剧特写运镜词 | [tasks/comic-emotion-closeup-prompts.md](tasks/comic-emotion-closeup-prompts.md) |
+| 茶饮咖啡海报词 | [tasks/tea-coffee-poster-prompts.md](tasks/tea-coffee-poster-prompts.md) |
+| 数码小家电主图 | [tasks/digital-appliance-image-prompts.md](tasks/digital-appliance-image-prompts.md) |
+| 新中式国风人像 | [tasks/new-chinese-portrait-prompts.md](tasks/new-chinese-portrait-prompts.md) |
+| 探店打卡提示词 | [tasks/shop-visit-note-prompts.md](tasks/shop-visit-note-prompts.md) |
+| 职场脚本提示词 | [tasks/workplace-short-video-prompts.md](tasks/workplace-short-video-prompts.md) |
+| 会议记录提待办 | [tasks/meeting-notes-action-prompts.md](tasks/meeting-notes-action-prompts.md) |
+| 简历STAR润色词 | [tasks/resume-star-bullet-prompts.md](tasks/resume-star-bullet-prompts.md) |
 
 ### 任务执行规则
 
