@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Gyroflow | 开源视频陀螺仪防抖：读取大疆/GoPro/索尼/手机运动数据拉平晃动画面、消除果冻效应、自适应动态裁剪、支持 PR/达芬奇/FCPX 插件 | Windows / macOS / Linux / Android / iOS | 简单（绿色解压或安装包即用） | [apps/gyroflow.md](apps/gyroflow.md) |
 | AnythingLLM | 私有文档知识库与 AI 桌面助手：拖入 30 多种格式文档本地向量建库、回答带原文出处引用、内置本地模型与 40 多种大模型接入、支持 MCP 与无代码 Agent | Windows / macOS / Linux | 简单（官网或 GitHub 安装包一键安装） | [apps/anythingllm.md](apps/anythingllm.md) |
 | KDE Connect | 手机电脑跨设备无线互联：手机秒变无线触控板与 PPT 遥控器、剪贴板共享、无线互传文件、通知电量同步、响铃找手机 | Windows / macOS / Linux / Android / iOS | 简单（商店或安装包安装，同 Wi-Fi 配对即用） | [apps/kde-connect.md](apps/kde-connect.md) |
 | CompactGUI | Windows 原生无损目录压缩：调用系统内置 WOF 透明压缩把百 G 游戏或软件原地压小、不删文件直接玩，含 12,809 款游戏压缩率数据库与更新自动重压 | 仅 Windows 10 / 11（x64 / ARM64） | 简单（单文件绿色运行） | [apps/compactgui.md](apps/compactgui.md) |
