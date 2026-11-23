@@ -121,7 +121,7 @@
 | LocalSend | 手机电脑局域网互传文件，不用联网 | Windows / macOS / Linux / Android / iOS | 简单 | [apps/localsend.md](apps/localsend.md) |
 | Gopeed | 电脑手机都能用的下载器 | Windows / macOS / Linux / Android | 简单 | [apps/gopeed.md](apps/gopeed.md) |
 | Feishin | 自建音乐库现代桌面播放器 | Windows / macOS / Linux / Web | 简单 | [apps/feishin.md](apps/feishin.md) |
-| AB Download Manager | IDM免费平替 | Windows / macOS（部分还有 Linux、手机版） | 简单 | [apps/ab-download-manager.md](apps/ab-download-manager.md) |
+| AB Download Manager | 高速多线程下载：8线程动态分片、断点续传、队列定时调度与浏览器扩展接管 | Windows / macOS / Linux / Android | 简单 | [apps/ab-download-manager.md](apps/ab-download-manager.md) |
 | NanaZip | 无广告不捆绑的解压软件 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/nanazip.md](apps/nanazip.md) |
 | Ventoy | 一个U盘装多个系统 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/ventoy.md](apps/ventoy.md) |
 | ShareX | 截图录屏OCR全包 | 仅 Windows（个别也支持 Linux） | 简单 | [apps/sharex.md](apps/sharex.md) |
