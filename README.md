@@ -155,6 +155,7 @@
 | Stats | Mac菜单栏实时看CPU | 仅 macOS | 简单 | [apps/stats.md](apps/stats.md) |
 | Joplin | 开源笔记：分层整理、全文搜索、待办清单和多端同步 | Windows / macOS / Linux / Android / iOS | 简单（含官方包校验） | [apps/joplin.md](apps/joplin.md) |
 | Sherlock | 一个用户名查遍四百多个网站 | Windows / macOS / Linux | 简单（需 Python） | [apps/sherlock.md](apps/sherlock.md) |
+| System Informer | Windows 进程树、查文件占用解锁、网络与磁盘抓现行、GPU 温度监控 | 仅 Windows | 简单（含官方包校验） | [apps/systeminformer.md](apps/systeminformer.md) |
 
 ---
 
