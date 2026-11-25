@@ -301,6 +301,16 @@
 | 职场脚本提示词 | [tasks/workplace-short-video-prompts.md](tasks/workplace-short-video-prompts.md) |
 | 会议记录提待办 | [tasks/meeting-notes-action-prompts.md](tasks/meeting-notes-action-prompts.md) |
 | 简历STAR润色词 | [tasks/resume-star-bullet-prompts.md](tasks/resume-star-bullet-prompts.md) |
+| 规则怪谈小说词 | [tasks/rule-horror-story-prompts.md](tasks/rule-horror-story-prompts.md) |
+| 模拟文字游戏词 | [tasks/life-sim-game-prompts.md](tasks/life-sim-game-prompts.md) |
+| 室内软装生图词 | [tasks/interior-decor-image-prompts.md](tasks/interior-decor-image-prompts.md) |
+| 宠物用品主图词 | [tasks/pet-supply-main-image-prompts.md](tasks/pet-supply-main-image-prompts.md) |
+| 武侠打斗分镜词 | [tasks/wuxia-action-storyboard-prompts.md](tasks/wuxia-action-storyboard-prompts.md) |
+| 古法手作脚本词 | [tasks/craft-heritage-video-prompts.md](tasks/craft-heritage-video-prompts.md) |
+| 萌宠下厨分镜词 | [tasks/pet-cooking-short-prompts.md](tasks/pet-cooking-short-prompts.md) |
+| 活动执行出清单 | [tasks/event-planning-prompts.md](tasks/event-planning-prompts.md) |
+| 公众号标题导语 | [tasks/wechat-headline-lead-prompts.md](tasks/wechat-headline-lead-prompts.md) |
+| 旅行打卡人像词 | [tasks/travel-portrait-prompts.md](tasks/travel-portrait-prompts.md) |
 
 ### 任务执行规则
 
