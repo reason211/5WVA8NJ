@@ -18,6 +18,7 @@
 
 | 软件 | 用来做什么 | 支持系统 | 难度 | 教程 |
 |---|---|---|---|---|
+| Handy | 本地离线开源语音转文字：按住快捷键说话直输任意窗口，内置 Silero VAD 降噪与 Whisper/Qwen3-ASR/Fun-ASR 等 76 款离线模型，支持音视频文件转写，不上传云端 | Windows / macOS / Linux | 简单（安装包或包管理器一键安装） | [apps/handy.md](apps/handy.md) |
 | Gyroflow | 开源视频陀螺仪防抖：读取大疆/GoPro/索尼/手机运动数据拉平晃动画面、消除果冻效应、自适应动态裁剪、支持 PR/达芬奇/FCPX 插件 | Windows / macOS / Linux / Android / iOS | 简单（绿色解压或安装包即用） | [apps/gyroflow.md](apps/gyroflow.md) |
 | AnythingLLM | 私有文档知识库与 AI 桌面助手：拖入 30 多种格式文档本地向量建库、回答带原文出处引用、内置本地模型与 40 多种大模型接入、支持 MCP 与无代码 Agent | Windows / macOS / Linux | 简单（官网或 GitHub 安装包一键安装） | [apps/anythingllm.md](apps/anythingllm.md) |
 | KDE Connect | 手机电脑跨设备无线互联：手机秒变无线触控板与 PPT 遥控器、剪贴板共享、无线互传文件、通知电量同步、响铃找手机 | Windows / macOS / Linux / Android / iOS | 简单（商店或安装包安装，同 Wi-Fi 配对即用） | [apps/kde-connect.md](apps/kde-connect.md) |
